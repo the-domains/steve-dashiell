@@ -1,0 +1,28 @@
+name: Steve Dashiell
+favicon: null
+layout_spectrum: 0.9539610440842807
+typography_spectrum: 0.868074806407094
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6097984318621457
+  lightness: 0.6982111069373786
+  saturation: 0.6490543216932565
+  rhythmicContrast: 0.524847085122019
+purpose: []
